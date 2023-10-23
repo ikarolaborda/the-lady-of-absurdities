@@ -50,5 +50,5 @@ symfony serve
 (If this is your first time using this command, you may see an
 error that you need to run `symfony server:ca:install` first).
 
-[Leia in português](README_PT.md)
+[Leia em português](README_PT.md)
 

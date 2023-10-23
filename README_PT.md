@@ -1,4 +1,5 @@
-A Dama das Absurdidades
+# A Senhora dos Absurdos
+
 Esta aplicação é um clone do Stack Overflow.
 Foi criada como parte do curso Symfony 5: The Fast Track no SymfonyCasts.com.
 Também foi atualizada para o Symfony 6.*.
