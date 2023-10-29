@@ -50,4 +50,7 @@ erro. Pra resolve-lo, precisas correr
 symfony server:ca:install
 ```
 
+Uma cópia implantada desta aplicação está disponível em
+https://18.218.251.176/
+
 [Read in English](README.md)

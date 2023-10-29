@@ -50,5 +50,8 @@ symfony serve
 (If this is your first time using this command, you may see an
 error that you need to run `symfony server:ca:install` first).
 
+A deployed copy of this application is available in
+https://18.218.251.176/
+
 [Leia em português](README_PT.md)
 
