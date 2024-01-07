@@ -50,7 +50,7 @@ services:
         ports: [ '1025', '1080' ]
 
     ladyofabsurdities-phpmyadmin:
-        container_name: pma
+        container_name: lady-pma
         platform: linux/amd64
         image: phpmyadmin/phpmyadmin
         links:
